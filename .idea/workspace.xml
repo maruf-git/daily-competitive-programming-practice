@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e880ce3b-9695-4022-9b5d-b5ea2d211146" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/iterator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multimap.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiset.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pair.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/set.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unordered_map.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vector.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2uFPze8WuEw1jzPgWm2nmbmi39z" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e880ce3b-9695-4022-9b5d-b5ea2d211146" name="Changes" comment="" />
+      <created>1741841615010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741841615010</updated>
+    </task>
+    <servers />
+  </component>
+</project>
